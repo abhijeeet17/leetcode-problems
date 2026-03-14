@@ -6,7 +6,7 @@ public:
         for(int i = 0;  i<n; i++){
             pq.push(nums[i]);
         }
-        for(int i =  0; i<nums.size(); i++){
+        for(int i =  0; i<n;  i++){
             nums[i] = pq.top();
             pq.pop();
         }
