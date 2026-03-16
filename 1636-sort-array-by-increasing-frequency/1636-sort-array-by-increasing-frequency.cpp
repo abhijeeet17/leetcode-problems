@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     vector<int> frequencySort(vector<int>& nums) {
@@ -11,8 +14,8 @@ public:
 
         auto cmp = [](pi a, pi b){
             if(a.first == b.first)
-                return a.second < b.second; // larger number first
-            return a.first > b.first;       // smaller frequency first
+                return a.second < b.second; 
+            return a.first > b.first;       
         };
 
         priority_queue<pi, vector<pi>, decltype(cmp)> pq(cmp);
@@ -25,7 +28,7 @@ public:
 
         while(!pq.empty()){
             int freq = pq.top().first;
-            int num = pq.top().second;
+            int num = pq.top().second;   // fixed
             pq.pop();
 
             for(int i = 0; i < freq; i++){
