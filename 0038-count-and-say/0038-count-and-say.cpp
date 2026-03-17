@@ -15,8 +15,6 @@ public:
                     count = 1;
                 }
             }
-            
-            // add last group
             temp += to_string(count) + res.back();
             
             res = temp;
