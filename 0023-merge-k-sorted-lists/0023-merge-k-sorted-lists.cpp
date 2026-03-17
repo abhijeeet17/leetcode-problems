@@ -1,24 +1,22 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        auto cmp = [](ListNode* a, ListNode* b) {
-            return a->val > b->val; 
-        };
-        priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
-        for(auto node : lists) {
-            if(node) pq.push(node);
-        }
-        ListNode* dummy = new ListNode(0);
-        ListNode* tail = dummy;
-        while(!pq.empty()) {
-            ListNode* top = pq.top();
-            pq.pop(); 
-            tail->next = top;
-            tail = tail->next;
-            if(top->next) {
-                pq.push(top->next);
+        priority_queue<int, vector<int>, greater<int>> pq;
+        for(auto list : lists) {
+            while(list) {
+                pq.push(list->val);
+                list = list->next;
             }
         }
+        ListNode* dummy = new ListNode(0);
+        ListNode* temp = dummy;
+        
+        while(!pq.empty()) {
+            temp->next = new ListNode(pq.top());
+            pq.pop();
+            temp = temp->next;
+        }
+        
         return dummy->next;
     }
 };
