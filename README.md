@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhijeeet17/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhijeeet17/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhijeeet17/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/abhijeeet17/leetcode-problems/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
 | ------- |
