@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/abhijeeet17/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/abhijeeet17/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/abhijeeet17/leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/abhijeeet17/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/abhijeeet17/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/abhijeeet17/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/abhijeeet17/leetcode-problems/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
