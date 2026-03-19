@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhijeeet17/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/abhijeeet17/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/abhijeeet17/leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhijeeet17/leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijeeet17/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhijeeet17/leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -184,4 +186,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijeeet17/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhijeeet17/leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhijeeet17/leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhijeeet17/leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
