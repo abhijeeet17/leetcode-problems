@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/abhijeeet17/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhijeeet17/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/abhijeeet17/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0096-unique-binary-search-trees](https://github.com/abhijeeet17/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0973-k-closest-points-to-origin](https://github.com/abhijeeet17/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/abhijeeet17/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/abhijeeet17/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhijeeet17/leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/abhijeeet17/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijeeet17/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhijeeet17/leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/abhijeeet17/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijeeet17/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhijeeet17/leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/abhijeeet17/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 ## Backtracking
 |  |
 | ------- |
@@ -195,4 +199,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhijeeet17/leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/abhijeeet17/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
