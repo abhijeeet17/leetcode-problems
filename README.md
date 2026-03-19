@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/abhijeeet17/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/abhijeeet17/leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/abhijeeet17/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhijeeet17/leetcode-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhijeeet17/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhijeeet17/leetcode-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhijeeet17/leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/abhijeeet17/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+## Prefix Sum
+|  |
+| ------- |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhijeeet17/leetcode-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 <!---LeetCode Topics End-->
