@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhijeeet17/leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abhijeeet17/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/abhijeeet17/leetcode-problems/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/abhijeeet17/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhijeeet17/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhijeeet17/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijeeet17/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/abhijeeet17/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhijeeet17/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/abhijeeet17/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0347-top-k-frequent-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/abhijeeet17/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Linked List
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abhijeeet17/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhijeeet17/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhijeeet17/leetcode-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Bit Manipulation
