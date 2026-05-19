@@ -10,6 +10,8 @@ public:
                 nums[i+1]=0;
             }
         }
+
+        //moving the zeros to the end
         vector<int>res(n,0);
         int j=0;
         for(int i=0;i<n;i++)
