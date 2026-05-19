@@ -10,7 +10,10 @@ public:
             {
                 return {mp[rem],i};
             }
+            else
+            {
             mp[nums[i]]=i;
+            }
         }
         return {};
         
