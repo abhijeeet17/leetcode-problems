@@ -4,14 +4,16 @@ public:
         int low = 0;
         int high = letters.size()-1;
         while(low<=high){
-            int mid = low +(high-low)/2;
+            int mid = low+(high-low)/2;
             if(letters[mid]<= target){
-                low = mid + 1;
-                // agar target se mid bada hai to low ko bdha dege
+                low = mid+1;
+                // agar mid target se chhota ya equal hai
+     // to right side me jaenge
             }
-            //aur agr target se mid chhota hai to 
+            // agar mid target se bada hai
+                // to left side check karenge
             else{
-            high = mid - 1;
+            high = mid-1;
             }
         }
         return letters[low % letters.size()];
