@@ -8,8 +8,7 @@ public:
 
         long long ans = LLONG_MAX;
 
-        // ---------- Land -> Water ----------
-        vector<pair<int, int>> water(m); // {start, duration}
+        vector<pair<int, int>> water(m); 
         for (int i = 0; i < m; i++) {
             water[i] = {waterStartTime[i], waterDuration[i]};
         }
@@ -45,21 +44,17 @@ public:
 
             long long best = LLONG_MAX;
 
-            // rides already open when land ride finishes
             if (pos >= 0) {
                 best = min(best, A + prefMinDur[pos]);
             }
 
-            // rides not yet open
             if (pos + 1 < m) {
                 best = min(best, suffMinOpenFinish[pos + 1]);
             }
 
             ans = min(ans, best);
         }
-
-        // ---------- Water -> Land ----------
-        vector<pair<int, int>> land(n); // {start, duration}
+        vector<pair<int, int>> land(n); 
         for (int i = 0; i < n; i++) {
             land[i] = {landStartTime[i], landDuration[i]};
         }
@@ -95,13 +90,9 @@ public:
             int pos = upper_bound(lStart.begin(), lStart.end(), B) - lStart.begin() - 1;
 
             long long best = LLONG_MAX;
-
-            // land rides already open
             if (pos >= 0) {
                 best = min(best, B + prefMinLandDur[pos]);
             }
-
-            // land rides not yet open
             if (pos + 1 < n) {
                 best = min(best, suffMinLandOpenFinish[pos + 1]);
             }
