@@ -5,9 +5,7 @@ public:
         int res = false;
         for(auto x: nums){
             mp[x]++;    
-        }
-        for(auto i : mp){
-            if(i.second>1) return true;   
+           if(mp[x]>1) return true;   
         }
         return false;
     }
