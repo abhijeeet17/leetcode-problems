@@ -10,7 +10,7 @@ public:
                 digit++;
 
             }
-             if(digit%2==0) count++;
+            if(digit%2==0) count++;
         }
         return count;
         
