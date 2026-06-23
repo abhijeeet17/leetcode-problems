@@ -8,8 +8,11 @@ public:
             if(mp.count(rem)){
                 return {mp[rem],i};
             }
-            else mp[nums[i]] = i;
+            else{
+                mp[nums[i]]= i;
+            }
         }
-        return {};
+        return{};
+
     }
 };
