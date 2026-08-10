@@ -1,6 +1,3 @@
-// The API isBadVersion is defined for you.
-// bool isBadVersion(int version);
-
 class Solution {
 public:
     int firstBadVersion(int n) {
@@ -11,7 +8,7 @@ public:
             if(isBadVersion(mid)){
                 right = mid;
             }
-            else{
+            else {
                 left = mid + 1;
             }
         }
