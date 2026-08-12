@@ -1,24 +1,24 @@
 class Solution {
 public:
-    string largestNumber(vector<int>& nums) {
+    string largestNumber(vector<int>& nums){
         vector<string>arr;
-        for(int num : nums){
+        for(int num:nums){
             arr.push_back(to_string(num));
-        }
-        auto mycomp = [](const string &s1, const string &s2){
-            if(s1+s2 > s2+ s1){
+        }    
+        auto mycomp = [](const string &s1,const string &s2){
+            if(s1+s2> s2+s1){
                 return true;
             }
-            else {
+            else{
                 return false;
             }
         };
-        sort(arr.begin() , arr.end(),mycomp);
+        sort(arr.begin(),arr.end(),mycomp);
         if(arr[0] == "0") return "0";
-        string ans;
-        for(const string &s : arr){
-            ans+=s;
+        string s;
+        for(string &ss : arr){
+            s+=ss;
         }
-    return ans;
+        return s;
     }
 };
