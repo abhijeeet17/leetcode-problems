@@ -5,7 +5,7 @@ public:
         for(int num : nums){
             arr.push_back(to_string(num));
         }
-        auto mycomp = [](const string &s1, string &s2){
+        auto mycomp = [](const string &s1, const string &s2){
             if(s1+s2 > s2+ s1){
                 return true;
             }
