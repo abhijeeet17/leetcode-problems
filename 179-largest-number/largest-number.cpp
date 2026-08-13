@@ -1,12 +1,12 @@
 class Solution {
 public:
-    string largestNumber(vector<int>& nums){
-        vector<string>arr;
-        for(int num:nums){
+    string largestNumber(vector<int>& nums) {
+        vector<string> arr;
+        for (int num : nums) {
             arr.push_back(to_string(num));
-        }    
+        }
         auto mycomp = [](const string &s1,const string &s2){
-            if(s1+s2> s2+s1){
+            if(s1+s2 > s2+s1){
                 return true;
             }
             else{
@@ -14,11 +14,11 @@ public:
             }
         };
         sort(arr.begin(),arr.end(),mycomp);
+        string ans;
         if(arr[0] == "0") return "0";
-        string s;
-        for(string &ss : arr){
-            s+=ss;
+        for(string  &s : arr){ 
+            ans+=s;
         }
-        return s;
+        return ans;
     }
 };
