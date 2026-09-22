@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhijeeet17/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/abhijeeet17/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/abhijeeet17/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0593-valid-square](https://github.com/abhijeeet17/leetcode-problems/tree/master/0593-valid-square) |
 | [0973-k-closest-points-to-origin](https://github.com/abhijeeet17/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/abhijeeet17/leetcode-problems/tree/master/0593-valid-square) |
 | [0973-k-closest-points-to-origin](https://github.com/abhijeeet17/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
