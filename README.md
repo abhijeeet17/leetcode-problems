@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/abhijeeet17/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/abhijeeet17/leetcode-problems/tree/master/0039-combination-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhijeeet17/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/abhijeeet17/leetcode-problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhijeeet17/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0658-find-k-closest-elements) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhijeeet17/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/abhijeeet17/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhijeeet17/leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0268-missing-number](https://github.com/abhijeeet17/leetcode-problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/abhijeeet17/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Linked List
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhijeeet17/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/abhijeeet17/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/abhijeeet17/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/abhijeeet17/leetcode-problems/tree/master/0268-missing-number) |
 | [0593-valid-square](https://github.com/abhijeeet17/leetcode-problems/tree/master/0593-valid-square) |
 | [0973-k-closest-points-to-origin](https://github.com/abhijeeet17/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhijeeet17/leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abhijeeet17/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhijeeet17/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/abhijeeet17/leetcode-problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhijeeet17/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0658-find-k-closest-elements) |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhijeeet17/leetcode-problems/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhijeeet17/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 ## Matrix
@@ -183,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/abhijeeet17/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/abhijeeet17/leetcode-problems/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
