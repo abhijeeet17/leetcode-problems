@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhijeeet17/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/abhijeeet17/leetcode-problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/abhijeeet17/leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/abhijeeet17/leetcode-problems/tree/master/0072-edit-distance) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhijeeet17/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Sliding Window
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhijeeet17/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/abhijeeet17/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/abhijeeet17/leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/abhijeeet17/leetcode-problems/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhijeeet17/leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/abhijeeet17/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 ## Greedy
