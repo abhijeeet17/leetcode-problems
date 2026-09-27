@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/abhijeeet17/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhijeeet17/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/abhijeeet17/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/abhijeeet17/leetcode-problems/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/abhijeeet17/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/abhijeeet17/leetcode-problems/tree/master/0268-missing-number) |
 | [0593-valid-square](https://github.com/abhijeeet17/leetcode-problems/tree/master/0593-valid-square) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhijeeet17/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/abhijeeet17/leetcode-problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/abhijeeet17/leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/abhijeeet17/leetcode-problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/abhijeeet17/leetcode-problems/tree/master/0072-edit-distance) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhijeeet17/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Sliding Window
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/abhijeeet17/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/abhijeeet17/leetcode-problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/abhijeeet17/leetcode-problems/tree/master/0268-missing-number) |
 ## Stack
 |  |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/abhijeeet17/leetcode-problems/tree/master/0176-second-highest-salary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/abhijeeet17/leetcode-problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
