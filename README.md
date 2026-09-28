@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhijeeet17/leetcode-problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhijeeet17/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/abhijeeet17/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0769-max-chunks-to-make-sorted](https://github.com/abhijeeet17/leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/abhijeeet17/leetcode-problems/tree/master/0912-sort-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/abhijeeet17/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/abhijeeet17/leetcode-problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/abhijeeet17/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/abhijeeet17/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Linked List
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhijeeet17/leetcode-problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhijeeet17/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/abhijeeet17/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/abhijeeet17/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0769-max-chunks-to-make-sorted](https://github.com/abhijeeet17/leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/abhijeeet17/leetcode-problems/tree/master/0912-sort-an-array) |
